@@ -1,0 +1,5 @@
+game:
+  exe: drive_c/osu/osu!.exe
+  prefix: /home/paddys/Games/osu
+wine:
+  version: lutris-osu-2-x86_64

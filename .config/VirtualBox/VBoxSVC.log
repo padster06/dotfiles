@@ -1,0 +1,109 @@
+00:00:00.005062 main     VirtualBox XPCOM Server 6.1.26 r145957 linux.amd64 (Jul 29 2021 12:15:28) release log
+00:00:00.005066 main     Log opened 2021-09-01T14:27:11.669283000Z
+00:00:00.005067 main     Build Type: release
+00:00:00.005079 main     OS Product: Linux
+00:00:00.005082 main     OS Release: 5.13.12-1-MANJARO
+00:00:00.005084 main     OS Version: #1 SMP PREEMPT Wed Aug 18 08:06:42 UTC 2021
+00:00:00.005126 main     DMI Product Name: OptiPlex 7010
+00:00:00.005142 main     DMI Product Version: 01
+00:00:00.005151 main     Firmware type: UEFI
+00:00:00.005470 main     Secure Boot: Disabled
+00:00:00.005530 main     Host RAM: 15891MB (15.5GB) total, 15519MB (15.1GB) available
+00:00:00.005542 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.005543 main     Process ID: 3275
+00:00:00.005543 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.008347 main     IPC socket path: /tmp/.vbox-paddys-ipc/ipcd
+00:00:00.147569 nspr-2   VirtualBox: object creation starts
+00:00:00.147717 nspr-2   Home directory: '/home/paddys/.config/VirtualBox'
+00:00:00.282622 nspr-2   HostDnsMonitor: initializing
+00:00:00.283034 nspr-2   NAT: resolv.conf: nameserver fd12:7ac4:9d12:0:9e31:c3ff:fe79:10b0
+00:00:00.283067 nspr-2   NAT: resolv.conf: nameserver 192.168.0.1
+00:00:00.283090 nspr-2   HostDnsMonitor: updating information
+00:00:00.305863 nspr-2   HostDnsMonitor: old information
+00:00:00.305888 nspr-2     no server entries
+00:00:00.305897 nspr-2     no domain set
+00:00:00.305903 nspr-2     no search string entries
+00:00:00.305908 nspr-2   HostDnsMonitor: new information
+00:00:00.305913 nspr-2     server 1: fd12:7ac4:9d12:0:9e31:c3ff:fe79:10b0
+00:00:00.305920 nspr-2     server 2: 192.168.0.1
+00:00:00.305925 nspr-2     domain: Home
+00:00:00.305930 nspr-2     search string 1: Home
+00:00:00.320650 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.359475 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.360304 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.370574 nspr-2   VirtualBox: object created
+00:00:52.713257 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:52.714985 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:02:44.578267 createBase Saving settings file "/home/paddys/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:45.279582 nspr-2   Saving settings file "/home/paddys/VirtualBox VMs/Arch Base system/Arch Base system.vbox" with version "1.16-linux"
+00:02:45.355990 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:02:45.357782 nspr-2   Saving settings file "/home/paddys/VirtualBox VMs/Arch Base system/Arch Base system.vbox" with version "1.16-linux"
+00:02:45.467267 nspr-2   Saving settings file "/home/paddys/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:45.554476 nspr-2   Saving settings file "/home/paddys/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:45.637838 nspr-4   Saving settings file "/home/paddys/VirtualBox VMs/Arch Base system/Arch Base system.vbox" with version "1.16-linux"
+00:02:46.115939 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:02:46.183423 nspr-3   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:02:46.395842 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:02:46.396711 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:08:16.044698 nspr-3   Launched VM: 3221229488 pid: 4417 (0x1141) frontend: GUI/Qt name: Arch Base system
+00:08:16.075897 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:08:16.098208 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:08:16.099062 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:08:16.545538 Watcher  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The virtual machine 'Arch Base system' has terminated unexpectedly during startup with exit code 1 (0x1)}, preserve=false aResultDetail=0
+00:08:17.119813 nspr-4   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:08:17.143166 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:08:17.144091 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:08:30.384620 nspr-3   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:08:30.582006 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:08:31.267594 nspr-4   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:08:31.267725 nspr-3   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:08:31.267833 nspr-4   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:08:31.286408 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:08:31.286841 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:08:31.429980 nspr-3   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:08:31.444275 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:08:31.445110 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:09:17.051636 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:09:17.051899 nspr-3   Saving settings file "/home/paddys/VirtualBox VMs/Arch Base system/Arch Base system.vbox" with version "1.16-linux"
+00:09:17.218417 nspr-3   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:09:17.233656 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:09:17.234598 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:09:19.110265 nspr-3   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:09:19.111779 nspr-3   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:09:23.087646 nspr-2   Launched VM: 3557375920 pid: 4455 (0x1167) frontend: GUI/Qt name: Arch Base system
+00:09:23.116558 nspr-4   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:09:23.135242 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:09:23.135929 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:09:23.596689 Watcher  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The virtual machine 'Arch Base system' has terminated unexpectedly during startup with exit code 1 (0x1)}, preserve=false aResultDetail=0
+00:09:24.158905 nspr-3   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:09:24.187715 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:09:24.190095 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:09:34.386502 nspr-4   Saving settings file "/home/paddys/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:09:34.496901 nspr-3   Saving settings file "/home/paddys/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:09:34.563870 nspr-4   Saving settings file "/home/paddys/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:09:34.638915 nspr-2   Saving settings file "/home/paddys/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:09:34.700055 nspr-4   Saving settings file "/home/paddys/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:09:34.756062 nspr-4   Saving settings file "/home/paddys/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:09:34.813672 nspr-2   Saving settings file "/home/paddys/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:09:40.070664 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:09:40.115164 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:09:40.268707 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:09:40.269738 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:09:42.103259 nspr-2   Launched VM: 3489671472 pid: 4514 (0x11a2) frontend: GUI/Qt name: Arch Base system
+00:09:42.123716 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:09:42.145052 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:09:42.145880 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:09:42.603602 Watcher  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The virtual machine 'Arch Base system' has terminated unexpectedly during startup with exit code 1 (0x1)}, preserve=false aResultDetail=0
+00:09:43.187960 nspr-4   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:09:43.215219 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:09:43.216050 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:10:19.465816 nspr-4   Saving settings file "/home/paddys/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:10:19.579576 nspr-3   Saving settings file "/home/paddys/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:10:19.644669 nspr-4   Saving settings file "/home/paddys/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:10:25.210388 main     VirtualBox: object deletion starts
+00:10:25.210492 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/paddys/VirtualBox VMs/Arch Base system/Arch Base system.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:10:25.211216 main     HostDnsMonitor: shutting down ...
+00:10:25.216535 main     HostDnsMonitor: shut down
+00:10:25.611997 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:10:30.216680 main     {00007f35d4015060} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:10:30.217111 main     VirtualBox: object deleted

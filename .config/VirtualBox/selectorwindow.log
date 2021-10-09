@@ -1,0 +1,20 @@
+00:00:00.112624 VirtualBox GUI VM Selector Window 6.1.26 r145957 linux.amd64 (Jul 29 2021 12:15:28) release log
+00:00:00.112625 Log opened 2021-09-01T14:36:51.234575000Z
+00:00:00.112626 Build Type: release
+00:00:00.112628 OS Product: Linux
+00:00:00.112628 OS Release: 5.13.12-1-MANJARO
+00:00:00.112629 OS Version: #1 SMP PREEMPT Wed Aug 18 08:06:42 UTC 2021
+00:00:00.112644 DMI Product Name: OptiPlex 7010
+00:00:00.112651 DMI Product Version: 01
+00:00:00.112654 Firmware type: UEFI
+00:00:00.112973 Secure Boot: Disabled
+00:00:00.113040 Host RAM: 15891MB (15.5GB) total, 15067MB (14.7GB) available
+00:00:00.113043 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.113043 Process ID: 4482
+00:00:00.113043 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.113075 Qt version: 5.15.2
+00:00:00.157555 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.591056 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 16x40 x 932x1020
+00:00:00.591123 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 968x40 x 932x1020
+00:00:00.610131 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:39.326122 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0

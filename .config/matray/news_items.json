@@ -1,0 +1,139 @@
+{
+  "Items" : [
+    {
+      "GUID" : "forum.manjaro.org-topic-67002",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2021-05-19-kernels-nvidia-kde-frameworks-plasma-systemd-libreoffice-kde-gear-mobile-ff-tb/67002",
+      "Title" : "[Stable Update] 2021-05-19 - Kernels, Nvidia, KDE Frameworks, Plasma, Systemd, LibreOffice, KDE Gear Mobile, FF, TB",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2021-05-19T14:01:35Z",
+      "PublishedDateUnix" : 1621432895,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-69217",
+      "URL" : "https://forum.manjaro.org/t/manjaro-cutefishde-spin-v0-2-2021-06-06-build-released/69217",
+      "Title" : "Manjaro CutefishDE Spin v0.2 (2021-06-06 Build) released",
+      "Category" : "Releases",
+      "PublishedDate" : "2021-06-06T11:41:20Z",
+      "PublishedDateUnix" : 1622979680,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-69346",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2021-06-07-kernels-perl-haskell-tesseract-cutefish-kde-nvidia/69346",
+      "Title" : "[Stable Update] 2021-06-07 - Kernels, Perl, Haskell, Tesseract, Cutefish, KDE, Nvidia",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2021-06-07T14:31:45Z",
+      "PublishedDateUnix" : 1623076305,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-69509",
+      "URL" : "https://forum.manjaro.org/t/manjaro-21-0-6-ornara-released/69509",
+      "Title" : "Manjaro 21.0.6 Ornara released!",
+      "Category" : "Releases",
+      "PublishedDate" : "2021-06-08T15:45:37Z",
+      "PublishedDateUnix" : 1623167137,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-70192",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2021-06-14-kernels-browsers-mesa-deepin-systemd-gnome-apps-40-2-pipewire-haskell/70192",
+      "Title" : "[Stable Update] 2021-06-14 - Kernels, Browsers, Mesa, Deepin, Systemd, Gnome Apps 40.2, Pipewire, Haskell",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2021-06-14T11:04:01Z",
+      "PublishedDateUnix" : 1623668641,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-73416",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2021-07-13-kernels-plasma-5-22-cinnamon-5-gnome-40-libreoffice-mesa-nvidia-pamac/73416",
+      "Title" : "[Stable Update] 2021-07-13 - Kernels, Plasma 5.22, Cinnamon 5, Gnome 40, LibreOffice, Mesa, Nvidia, Pamac",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2021-07-13T09:53:11Z",
+      "PublishedDateUnix" : 1626169991,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-74937",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2021-07-23-kernels-nvidia-mesa-wine-firefox-thunderbird-virtualbox/74937",
+      "Title" : "[Stable Update] 2021-07-23 - Kernels, Nvidia, Mesa, Wine, Firefox, Thunderbird, Virtualbox",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2021-07-23T08:17:09Z",
+      "PublishedDateUnix" : 1627028229,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-75766",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2021-07-28-kernels-plasma-5-22-4-systemd-cinnamon-firefox-libreoffice/75766",
+      "Title" : "[Stable Update] 2021-07-28 - Kernels, Plasma 5.22.4, Systemd, Cinnamon, Firefox, LibreOffice",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2021-07-28T15:01:06Z",
+      "PublishedDateUnix" : 1627484466,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-75919",
+      "URL" : "https://forum.manjaro.org/t/manjaro-21-1-pahvo-release-is-near/75919",
+      "Title" : "Manjaro 21.1 Pahvo Release is near",
+      "Category" : "Announcements",
+      "PublishedDate" : "2021-07-29T10:22:19Z",
+      "PublishedDateUnix" : 1627554139,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-76064",
+      "URL" : "https://forum.manjaro.org/t/downtime-manjaro-org-ping-manjaro-org/76064",
+      "Title" : "[Downtime] manjaro.org; ping.manjaro.org",
+      "Category" : "Announcements",
+      "PublishedDate" : "2021-07-30T05:17:05Z",
+      "PublishedDateUnix" : 1627622225,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-77468",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2021-08-09-kernels-xorg-server-systemd-virtualbox-mesa-plasma-pipewire/77468",
+      "Title" : "[Stable Update] 2021-08-09 - Kernels, Xorg-Server, Systemd, Virtualbox, Mesa, Plasma, Pipewire",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2021-08-09T07:34:24Z",
+      "PublishedDateUnix" : 1628494464,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-78663",
+      "URL" : "https://forum.manjaro.org/t/manjaro-21-1-0-pahvo-released/78663",
+      "Title" : "Manjaro 21.1.0 Pahvo released!",
+      "Category" : "Releases",
+      "PublishedDate" : "2021-08-17T15:43:15Z",
+      "PublishedDateUnix" : 1629214995,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-78666",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2021-08-17-kernels-kde-software-nvidia-firefox-thunderbird-mate/78666",
+      "Title" : "[Stable Update] 2021-08-17 - Kernels, KDE Software, Nvidia, Firefox, Thunderbird, Mate",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2021-08-17T17:33:08Z",
+      "PublishedDateUnix" : 1629221588,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-80096",
+      "URL" : "https://forum.manjaro.org/t/manjaro-21-1-1-pahvo-released/80096",
+      "Title" : "Manjaro 21.1.1 Pahvo released!",
+      "Category" : "Releases",
+      "PublishedDate" : "2021-08-27T14:59:15Z",
+      "PublishedDateUnix" : 1630076355,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-80101",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2021-08-27-kernels-cutefish-networkmanager-gnome-pamac-mesa-browsers-xorg-server-libreoffice/80101",
+      "Title" : "[Stable Update] 2021-08-27 - Kernels, Cutefish, NetworkManager, Gnome, Pamac, Mesa, Browsers, Xorg-Server, LibreOffice",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2021-08-27T15:11:07Z",
+      "PublishedDateUnix" : 1630077067,
+      "NotificationSent" : true
+    }
+  ]
+}

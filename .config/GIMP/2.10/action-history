@@ -1,0 +1,11 @@
+# GIMP action-history
+
+(history-item "edit-clear" 4)
+(history-item "file-quit" 1)
+(history-item "file-save" 0)
+(history-item "file-export-as" 1)
+(history-item "tools-size-set-to-default" 0)
+(history-item "layers-alpha-add" 0)
+(history-item "image-scale" 1)
+
+# end of action-history
