@@ -1,0 +1,75 @@
+0 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'i', '-g', 'npm' ]
+1 info using npm@7.21.0
+2 info using node@v16.7.0
+3 timing npm:load:whichnode Completed in 0ms
+4 timing config:load:defaults Completed in 3ms
+5 timing config:load:file:/usr/lib/node_modules/npm/npmrc Completed in 2ms
+6 timing config:load:builtin Completed in 2ms
+7 timing config:load:cli Completed in 2ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:file:/home/paddys/dev/node/multiplayerSnake/.npmrc Completed in 0ms
+10 timing config:load:project Completed in 1ms
+11 timing config:load:file:/home/paddys/.npmrc Completed in 1ms
+12 timing config:load:user Completed in 1ms
+13 timing config:load:file:/usr/etc/npmrc Completed in 1ms
+14 timing config:load:global Completed in 1ms
+15 timing config:load:validate Completed in 0ms
+16 timing config:load:credentials Completed in 1ms
+17 timing config:load:setEnvs Completed in 1ms
+18 timing config:load Completed in 12ms
+19 timing npm:load:configload Completed in 12ms
+20 timing npm:load:setTitle Completed in 0ms
+21 timing npm:load:setupLog Completed in 0ms
+22 timing config:load:flatten Completed in 3ms
+23 timing npm:load:cleanupLog Completed in 2ms
+24 timing npm:load:configScope Completed in 0ms
+25 timing npm:load:projectScope Completed in 0ms
+26 timing npm:load Completed in 18ms
+27 timing arborist:ctor Completed in 1ms
+28 timing idealTree:init Completed in 5ms
+29 timing idealTree:userRequests Completed in 2ms
+30 silly idealTree buildDeps
+31 silly fetch manifest npm@*
+32 http fetch GET 200 https://registry.npmjs.org/npm 19ms (cache hit)
+33 silly placeDep ROOT npm@7.21.1 OK for:  want: *
+34 timing idealTree:#root Completed in 46ms
+35 timing idealTree:node_modules/npm Completed in 0ms
+36 timing idealTree:buildDeps Completed in 55ms
+37 timing idealTree:fixDepFlags Completed in 1ms
+38 timing idealTree Completed in 64ms
+39 timing reify:loadTrees Completed in 232ms
+40 timing reify:diffTrees Completed in 4ms
+41 silly reify mark retired [ '/usr/lib/node_modules/npm', '/usr/bin/npm', '/usr/bin/npx' ]
+42 silly reify moves {
+42 silly reify   '/usr/lib/node_modules/npm': '/usr/lib/node_modules/.npm-qUIFSsiV',
+42 silly reify   '/usr/bin/npm': '/usr/bin/.npm-CxSgn0z2',
+42 silly reify   '/usr/bin/npx': '/usr/bin/.npx-akSQqeWh'
+42 silly reify }
+43 timing reify:rollback:retireShallow Completed in 1ms
+44 timing command:install Completed in 253ms
+45 verbose stack Error: EACCES: permission denied, rename '/usr/lib/node_modules/npm' -> '/usr/lib/node_modules/.npm-qUIFSsiV'
+46 verbose cwd /home/paddys/dev/node/multiplayerSnake
+47 verbose Linux 5.13.12-1-MANJARO
+48 verbose argv "/usr/bin/node" "/usr/bin/npm" "i" "-g" "npm"
+49 verbose node v16.7.0
+50 verbose npm  v7.21.0
+51 error code EACCES
+52 error syscall rename
+53 error path /usr/lib/node_modules/npm
+54 error dest /usr/lib/node_modules/.npm-qUIFSsiV
+55 error errno -13
+56 error Error: EACCES: permission denied, rename '/usr/lib/node_modules/npm' -> '/usr/lib/node_modules/.npm-qUIFSsiV'
+56 error  [Error: EACCES: permission denied, rename '/usr/lib/node_modules/npm' -> '/usr/lib/node_modules/.npm-qUIFSsiV'] {
+56 error   errno: -13,
+56 error   code: 'EACCES',
+56 error   syscall: 'rename',
+56 error   path: '/usr/lib/node_modules/npm',
+56 error   dest: '/usr/lib/node_modules/.npm-qUIFSsiV'
+56 error }
+57 error The operation was rejected by your operating system.
+57 error It is likely you do not have the permissions to access this file as the current user
+57 error
+57 error If you believe this might be a permissions issue, please double-check the
+57 error permissions of the file and its containing directories, or try running
+57 error the command again as root/Administrator.
+58 verbose exit -13
